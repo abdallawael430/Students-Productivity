@@ -19,6 +19,15 @@ wanted to explore a different type of dataset the used sales and HR data, which 
 This project analyzes students daily habits and their impact on academic performance using Excel. It focuses on key factors such as study hours, sleep duration, attendance percentage, and focus score, and explores their relationship with final grades.
 The goal is to uncover meaningful insights and patterns that explain how different habits influence student success, supported by data visualization and an interactive dashboard.
 
+<img width="1197" height="636" alt="dashbord" src="https://github.com/user-attachments/assets/8096716b-1cf4-4e33-a1be-7b3f410a4080" />
+<img width="1325" height="311" alt="charts" src="https://github.com/user-attachments/assets/4b0505fd-1254-4055-bbf2-6991c14c5bbb" />
+
+<img width="1276" height="297" alt="chart" src="https://github.com/user-attachments/assets/e8c4c435-0e1b-4053-8dd0-96d612da2d6a" />
+
+
+
+
+
 ### Tools Used
 - Microsoft Excel 
 - pivot Table 
