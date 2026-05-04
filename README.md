@@ -7,7 +7,7 @@
   
 - [Tools Used](#tools-used)
   
-- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Exploratory data analysis](#Exploratory-data-analysis)
   
 - [Insights Finding](#Insights-Finding)
 
@@ -39,7 +39,7 @@ Converted the Attendance values into percentage format for consistency and clari
 Processed time data by transforming raw numeric values into hours using calculated columns,
 improving usability and insight extraction
 
-### Exploratory data  analysis
+### Exploratory data analysis
 
 what factoes affect students 
 
