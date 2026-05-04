@@ -3,15 +3,15 @@
 
 ## Table of content 
 
-- [Project Overview](#project-overview)
+- [Project Overview](#Project-Overview)
   
 - [Tools Used](#tools-used)
   
 - [Exploratory Data Analysis](#exploratory-data-analysis)
   
-- [Insights/Findings](#insightsfindings)
+- [Insights Finding](#Insights-Finding)
 
-### Project Owverview
+### Project Overview
 
 wanted to explore a different type of dataset the used sales and HR data, which lead me to choose student activity data. This dataset stood out to me because it reflects real-life habits and behaviors that directly impact performance.
 This project analyzes students daily habits and their impact on academic performance using Excel. It focuses on key factors such as study hours, sleep duration, attendance percentage, and focus score, and explores their relationship with final grades.
@@ -79,7 +79,7 @@ what factoes affect students
 
  - Which student has the best balance between study hours, sleep, and grades?
 
-### Insights/Finding
+### Insights Finding
 
 When I trying to get insights in this data, I find many columns like:
 age, gender, study hours, sleep hours, phone hours, gaming hour, assignment complet, fouces level, final grade, and score productivily.
