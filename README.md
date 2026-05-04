@@ -3,15 +3,13 @@
 
 ## Table of content 
 
-- [project owverview](project_owverview)
-
-- [Tools Used](Tools_Used)
-
-- [Tools Used](Tools_Used)
-
-- [Exploratory data  analysis](Exploratory_data_analysis)
-
-- [Insights/Finding](Insights/Finding)
+- [Project Overview](#project-overview)
+  
+- [Tools Used](#tools-used)
+  
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+  
+- [Insights/Findings](#insightsfindings)
 
 ### Project Owverview
 
